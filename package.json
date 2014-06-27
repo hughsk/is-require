@@ -1,7 +1,7 @@
 {
   "name": "is-require",
   "description": "Tests whether an JavaScript AST node is likely to be a valid `require` call.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "browser": "index.js",
   "dependencies": {},
